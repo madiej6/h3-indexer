@@ -19,6 +19,12 @@ The h3-indexer contains 3 stages, and users can [provide command line arguments]
 - PySpark for H3 indexing operations using Apache Sedona
 - YAML & JSON-based configuration supported
 
+## Presentation History
+| Date | Location | Slides | Notes |
+| --- | --- | --- | --- |
+| 11-4-2025 | Reston, VA | [Link](https://docs.google.com/presentation/d/19SwTYDDxaRrHoaQRAOCjYv8sZRg5OK-xXbexMs1RleI/edit?usp=sharing) | FOSS4G NA 2025 |
+
+
 ## Developer Setup
 Developer setup is currently supported only on Linux ARM64 machines (not on x86_64 or macOS).
 
